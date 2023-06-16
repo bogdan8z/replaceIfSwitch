@@ -16,12 +16,6 @@ namespace ReplaceSwithUsingStrategyPattern.AfterStrategy
                 { "case-3", new ThirdStrategy() }
         };
 
-        //public AbcWithoutSwitch(string strategyName)
-        //{
-        //    _strategy = AbcWithoutSwitchStrategyFactory
-        //           .GetStrategy(strategyName);
-        //}
-
         public string? MyProperty1 { get; set; }
 
         public string GetMyValue()
