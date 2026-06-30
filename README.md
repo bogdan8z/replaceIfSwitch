@@ -1,4 +1,4 @@
-# Replace switch using Strategy Pattern
+# Howto replace a switch using Strategy Pattern
 
 Check [AbcWithSwitch.cs](ReplaceSwithUsingStrategyPattern/BeforeStrategy/AbcWithSwitch.cs) and [AbcWithoutSwitch.css](ReplaceSwithUsingStrategyPattern/AfterStrategy/AbcWithoutSwitch.cs) files
 
